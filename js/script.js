@@ -9,7 +9,7 @@ document.getElementById("sendButton").addEventListener("click", validaFormulario
 var nome = prompt("Qual é o seu nome?")
 alert(nome + ", seja bem vinde!")
 
-// variantes são usadas para guardarmos informações
+// vars são usadas para guardarmos informações
 // que podemos usar no futuro
 
 function validaFormulario(){
